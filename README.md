@@ -7,6 +7,8 @@ I'm familiar with popular programming languages such as Java, Python, JavaScript
 As of now, one of my main goals is to become familiar with full-stack development for the honest-to-god reason of getting hired! (And also because I really want to make full-fledged deployable software on my own to satisfy my ego). 
 
 Cheers!
+
+## Update: Currently on break due to medical reasons
 <!---
 kflim/kflim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
